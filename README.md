@@ -40,12 +40,6 @@ This project demonstrates practical capabilities in:
 - Execution quality diagnostics & algorithm selection.
 - Building custom Python pipelines for **trade performance analytics**.
 - Supporting **algo performance tuning** with backtest-style stress validation.
-- Applying **institutional logic** to real IPO event data, relevant to BNP’s equity and e-trading desks.
+- Applying **institutional logic** to real data, relevant to BNP’s equity and e-trading desks.
 
 ---
-
-## File Structure
-
-- `Algorithmic Execution Efficiency Analysis.ipynb`: Full simulation, visualization, and commentary.
-- `/data/`: Source data (not included for confidentiality).
-- `/figures/`: Output charts of execution distribution and slippage.
