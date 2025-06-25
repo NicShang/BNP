@@ -29,7 +29,7 @@ To analyze the execution efficiency and slippage risks between **TWAP** and **VW
 - **VWAP Average Slippage**: +0.01  
 - **Win Ratio**: TWAP outperformed VWAP in **100% of simulations** under stress.
 
-> Interpretation: In this IPO scenario, TWAP provided more consistent execution outcomes with lower risk of adverse slippage, which can inform BNP's algorithm tuning under liquidity stress or volatile listings.
+> Interpretation: In this scenario, TWAP provided more consistent execution outcomes with lower risk of adverse slippage, which can inform BNP's algorithm tuning under liquidity stress or volatile listings.
 
 ---
 
