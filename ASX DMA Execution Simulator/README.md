@@ -1,6 +1,6 @@
 # ASX DMA Execution Simulator (TWAP/VWAP)
 
-A Python-based simulator designed to emulate institutional trade slicing under TWAP and VWAP strategies, using ASX minute-level data. Benchmarked against live market conditions to evaluate execution cost, timing impact, and slippage—framed around BNP's low-latency, best-execution mandates.
+A Python-based simulator designed to emulate institutional trade slicing under TWAP and VWAP strategies, using ASX minute-level data. Benchmarked against live market conditions to evaluate execution cost, timing impact, and slippage,framed around BNP's low-latency, best-execution mandates.
 
 ## Project Objective
 
