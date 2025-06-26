@@ -21,7 +21,7 @@ To build a lightweight Direct Market Access (DMA) engine that compares TWAP vs V
   Integrates realistic volume-based trade slicing to minimize market footprint and replicate institutional flow under liquidity constraints.
 
 - **Execution Quality Evaluation:**  
-  Demonstrates that VWAP scheduling yields **lower cost variance** in volatile windows—aligned with BNP’s focus on low-impact trade execution.
+  Demonstrates that VWAP scheduling yields **lower cost variance** in volatile windows, aligned with BNP’s focus on low-impact trade execution.
 
 ## Output Metrics
 
