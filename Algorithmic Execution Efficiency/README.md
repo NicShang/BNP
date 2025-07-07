@@ -1,4 +1,4 @@
-# BNP Algorithmic Execution Efficiency Analysis
+# Algorithmic Execution Efficiency Analysis
 
 This project simulates and evaluates algorithmic trading strategies (TWAP vs. VWAP) using high-frequency execution data, designed to reflect the daily workflow and performance metrics relevant to BNP Paribas's Cash Equity Execution team.
 
