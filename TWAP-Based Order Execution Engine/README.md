@@ -35,7 +35,7 @@ To create an execution testing environment for:
 
 ## Why It Matters
 
-This simulator reflects how execution algorithms are stress-tested in real firms to ensure performance holds in live markets. It demonstrates ability to not only build logic, but validate it empirically — a critical step in robust signal-to-execution pipelines.
+This simulator reflects how execution algorithms are stress-tested in real firms to ensure performance holds in live markets. It demonstrates ability to not only build logic, but validate it empirically, a critical step in robust signal-to-execution pipelines.
 
 ---
 
