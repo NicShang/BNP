@@ -1,10 +1,10 @@
 # Equity Execution Risk Modelling | Volatility-Based Signal System
 
-A quantitative risk research project simulating front-office use of rolling volatility signals, tail diagnostics, and execution-aware risk controls — aligned with Basel standards and built using AR-GARCH pipelines.
+A quantitative risk research project simulating front-office use of rolling volatility signals, tail diagnostics, and execution-aware risk controls, aligned with Basel standards and built using AR-GARCH pipelines.
 
 ## Objective
 
-This project replicates how a quant execution team or risk strategist might enhance real-time risk oversight by building volatility-forecasting engines, early-warning flags, and scenario-tested control systems — enabling smarter execution decisions under shifting risk regimes.
+This project replicates how a quant execution team or risk strategist might enhance real-time risk oversight by building volatility-forecasting engines, early-warning flags, and scenario-tested control systems, enabling smarter execution decisions under shifting risk regimes.
 
 ## Problem Context
 
@@ -19,13 +19,13 @@ In high-frequency and intraday equity trading environments, real-time risk contr
 ## Key Components
 
 - **AR(6)-GARCH(3,7) Forecasting Engine**  
-  Captures short-term memory in returns and time-varying conditional volatility — producing rolling forecasts used to power downstream risk controls.
+  Captures short-term memory in returns and time-varying conditional volatility, producing rolling forecasts used to power downstream risk controls.
 
 - **Tail Risk Diagnostics**  
   Monte Carlo stress tests on GARCH residuals, enabling scenario analysis of large drawdowns and offering quantified downside exposure estimates.
 
 - **VaR / Expected Shortfall Bands**  
-  Multi-interval estimations for Basel-aligned confidence levels (95%, 99%) — applied to track order risk and trade envelope sizing.
+  Multi-interval estimations for Basel-aligned confidence levels (95%, 99%), applied to track order risk and trade envelope sizing.
 
 - **Execution-Grade Risk Flags**  
   Designed logic for triggering early-warning signals under volatility spikes, supporting discretionary desks and algo controllers.
@@ -56,4 +56,4 @@ This project mirrors how a trading firm might:
 
 ---
 
-This project is part of a broader effort to simulate professional quant workflows — from signal discovery to risk overlay design — in environments where real-time risk visibility drives execution quality and performance protection.
+This project is part of a broader effort to simulate professional quant workflows, from signal discovery to risk overlay design, in environments where real-time risk visibility drives execution quality and performance protection.
