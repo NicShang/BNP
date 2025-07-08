@@ -39,5 +39,3 @@ The project simulates how a quant PM or risk team might:
   - Monte Carlo volatility stress testing  
   - Portfolio KPI diagnostics
 
-## Project Structure
-
